@@ -106,7 +106,7 @@
         {
           "type": "shell",
           "commands": [
-            "install -Dm644 noiz2sa.png /app/share/icons/hicolor/64x64/apps/noiz2sa.png"
+            "install -Dm644 noiz2sa.png /app/share/icons/hicolor/128x128/apps/noiz2sa.png"
           ]
         },
         {
