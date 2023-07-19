@@ -1,7 +1,7 @@
 {
   "app-id": "com.abagames.noiz2sa",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "18.08",
+  "runtime-version": "23.08",
   "sdk": "org.freedesktop.Sdk",
   "command": "noiz2sa",
   "rename-desktop-file": "noiz2sa.desktop",
@@ -15,7 +15,7 @@
     "--persist=.noiz2sa.prf"
   ],
   "modules": [
-    "shared-modules/glu/glu-9.0.0.json",
+    "shared-modules/glu/glu-9.json",
     "shared-modules/SDL/SDL-1.2.15.json",
     "shared-modules/SDL/SDL_mixer-1.2.12.json",
     {
