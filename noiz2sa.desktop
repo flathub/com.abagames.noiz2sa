@@ -3,6 +3,6 @@ Type=Application
 Name=Noiz2sa
 Comment=An Abstract Shooter by Kenta Cho
 Icon=noiz2sa
-Exec=/app/bin/noiz2sa
+Exec=run-noiz2sa.sh
 Terminal=false
 Categories=Game;ArcadeGame;
